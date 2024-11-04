@@ -1,4 +1,4 @@
-# Text in MD format of the suggestion S33197923
+# Text in MD format of suggestion S33197923
 
 URL: https://ec.europa.eu/info/law/better-regulation/have-your-say-simplify/suggestions/S33197923_en
 
